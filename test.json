@@ -1,0 +1,66 @@
+{
+  "overview": "This 12-week Yoruba course for an 11-year-old beginner focuses on developing foundational skills through engaging lessons and activities.",
+  "weeks": [
+    {
+      "week": 1,
+      "theme": "Introduction to Yoruba Alphabets and Pronunciation",
+      "objectives": "By the end of this week, learners will be able to recognize and pronounce the Yoruba alphabets and understand their basic use.",
+      "sessions": [
+          {"session": 1, "topic": "Yoruba Alphabet Introduction", "activities": "Introduce letters and pronunciation using flashcards. Have students repeat after you." },
+          {"session": 2, "topic": "Alphabet Practice", "activities": "Practice writing and recognizing the introduced letters. Introduce first set of vocabulary words." },
+          {"session": 3, "topic": "Basic Phonetics", "activities": "Focus on correct mouth and tongue positions for different sounds. Use audio materials for listening practice." }
+      ]
+    },
+    {
+      "week": 2,
+      "theme": "First Set of Vocabulary and Basic Phrases",
+      "objectives": "Learners will begin to build vocabulary by learning essential phrases and gain confidence in speaking.",
+      "sessions": [
+          {"session": 1, "topic": "Vocabulary Expansion", "activities": "Teach 10 new words and their meanings. Encourage repetition and usage in simple sentences."},
+          {"session": 2, "topic": "Sentence Building", "activities": "Have students construct short sentences using learned vocabulary." },
+          {"session": 3, "topic": "Phonics Practice", "activities": "Focus on word families and syllable patterns. Engage in rhyming games." }
+      ]
+    }
+  ],
+  "milestones": ["Recognize and pronounce Yoruba alphabet by Week 1.", 
+     "Build basic sentences using learned vocabulary by Week 2."
+                
+  ]
+}
+[
+    {
+        "question": "What does it mean to greet someone?",
+        "options": ["Greet", "Wave goodbye", "Say hello", "Shake hands"],
+        "correct_answer": "C",
+        "explanation": "Greetings are expressions used to acknowledge or honour another person."
+    },
+    {
+        "question": "How do you say hello in Yoruba?",
+        "options": ["Hello", "Hi", "Iro Haba", "Bawo ni o se wa?"],
+        "correct_answer": "D",
+        "explanation": "Bawo ni o se wa? Literally translates to How are you?"
+    },
+    {
+        "question": "Which greeting should not be said when meeting someone?",
+        "options": ["Hello!", "Goodbye!", "Excuse me!", "Thank you!"],
+        "correct_answer": "D",
+        "explanation": "The word 'goodbye' is used when parting ways with someone."
+    },
+    {
+        "question": "Why would you greet someone?",
+        "options": [
+            "To make friends",
+            "Because you have to",
+            "To show respect",
+            "To get attention"
+        ],
+        "correct_answer": "C",
+        "explanation": "Greeting someone shows that you respect them."
+    },
+    {
+        "question": "What is the purpose of saying hello?",
+        "options": ["Saying goodbye", "Introducing yourself", "Saying thank you", "Showing happiness"],
+        "correct_answer": "B",
+        "explanation": "Saying hello serves as a way to introduce yourself to someone."
+    }
+]
