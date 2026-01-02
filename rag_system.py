@@ -278,16 +278,6 @@ def start_chat():
         response = chain.invoke({"input": query, "chat_history": chat_history})
         
         print(f"AI: {response['answer']}")
-        
-        # Show Sources
-        # print("\n   Sources:")
-        # seen_sources = set()
-        # for doc in response["context"]:
-        #     source = doc.metadata.get("source", "unknown")
-        #     if source not in seen_sources:
-        #         print(f"   - {os.path.basename(source)}")
-        #         seen_sources.add(source)
-        # print("-" * 30)
 
         # Update History
         chat_history.extend([
